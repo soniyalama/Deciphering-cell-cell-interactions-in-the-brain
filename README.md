@@ -1,7 +1,5 @@
 # Deciphering-cell-cell-interactions-in-the-brain
 
-This is part of my master thesis.
-
 In the complex world of a healthy brain, T cells  make themselves at home in the parenchyma, closely interacting with microglia. The resident T cells aren't just passive guards; they play a versatile role. They not only keep an eye on the brain's health but also have specific jobs related to essential tissue activities. They help regulate synaptic transmission and influence the creation of new neurons, shaping the connectivity of the neural network. The fact that brain T cells impact both the immune system and neural processes highlights their crucial role in shaping normal brain function and responding to diseases.
 
 
